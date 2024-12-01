@@ -17,3 +17,17 @@ id+ic*(ic+id)
 a + 3.2.5
 
 3.2.5
+
+# Top Down:
+
+# test 1
+
+ic+ic*ic$
+
+true
+
+# test 2
+
++ic*$
+
+false
